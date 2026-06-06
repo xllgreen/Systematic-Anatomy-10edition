@@ -11,6 +11,8 @@
 > 基于人民卫生出版社《系统解剖学》第10版的临床解剖技能手册 — 112 项核心解剖学技能
 <br>
 <br>
+<img src="/assets/Systematic-Anatomy-10edition.jpg" width="260px">
+<br>
 
 人体解剖学是医学的基石。<br>
 从骨骼到神经，从血管到内脏 — 系统解剖，精准入微。
@@ -186,6 +188,30 @@ D. 内囊损伤不会引起感觉障碍
 主编：崔慧先、刘学政  
 ISBN: 8E94C5A2-F115-4B45-Bc4A-D68Ac5D5Bf8C
 
+## 关于作者
+
+**小绿绿 xllgreen(https://xllgreen.github.io)** — 九江学院临床医学院学生·科技极客
+
+## 技术支持
+<br>
+PDF2App项目：https://pdf2app.cn
+<br>
+Microsoft Visual Studio Code：https://code.visualstudio.com/
+<br>
+Claude Code for VS Code：https://claude.com/
+© 2026 Anthropic PBC
+<br>
+<br>
+<img src="https://cdn.deepseek.com/logo.png?x-image-process=image%2Fresize%2Cw_1920" width="130px">
+<br>DeepSeek API：https://platform.deepseek.com/
+© 2026 杭州深度求索人工智能基础技术研究有限公司 版权所有
+<br>
+<br>
+<img src="https://cdn.cnbj1.fds.api.mi-img.com/aife/mimo-blog-fe/doc_build/static/image/logo.99baaffe.png" width="130px">
+<br>Xiaomi Mimo API：https://platform.xiaomimimo.com/
+Copyright © 2010 - 2026 Xiaomi. All Rights Reserved
+<br>
+
 ## 许可证
 
 本项目内容基于人民卫生出版社《系统解剖学》第 10 版整理，仅供学习参考。
@@ -194,10 +220,10 @@ MIT License
 
 ## Star History
 
-<a href="https://www.star-history.com/">
+<a href="https://www.star-history.com/?repos=xllgreen%2FSystematic-Anatomy-10edition&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=&type=date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=&type=date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=&type=date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xllgreen/Systematic-Anatomy-10edition&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xllgreen/Systematic-Anatomy-10edition&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=xllgreen/Systematic-Anatomy-10edition&type=date&legend=top-left" />
  </picture>
 </a>
