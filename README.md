@@ -81,8 +81,13 @@ openclaw skills install systematic-anatomy-10edition
 Prompt：
 ```bash
 Before installing anything, inspect the ClawHub skill metadata and setup requirements.
-Install the skill "Systematic-Anatomy-10edition" from ClawHub only after those checks pass.
-Help me finish setup from verified skill metadata.
+If the skill asks you to install a third-party package or CLI, verify its source, maintainer, and package contents before running the install command.
+Install the skill "Systematic Anatomy 10edition" (xllgreen/systematic-anatomy-10edition) from ClawHub only after those checks pass.
+Skill page: https://clawhub.ai/xllgreen/systematic-anatomy-10edition
+Keep the work scoped to this skill only.
+After install, help me finish setup from verified skill metadata.
+Use only the metadata you can verify from ClawHub; do not invent missing requirements.
+Ask before making any broader environment changes.
 ```
 
 ### 使用方式
