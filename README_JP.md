@@ -15,8 +15,8 @@
 <img src="/assets/Systematic-Anatomy-10edition.jpg" width="260px">
 <br>
 
-人体解剖学は医学の基盤です。<br>
-骨格から神経、血管から内臓まで — 系統解剖、精密に、細部まで。
+一冊の本を苦労して読む必要はありません<br>
+質問を入力するだけで、教科書から自動的に解決策が見つかります
 
 <br>
 
@@ -98,6 +98,22 @@ Ask before making any broader environment changes.
 2. **手順** — 標準化された解剖分析のワークフロー
 3. **注意事項** — 解剖変異と臨床的警告
 4. **参考資料** — 詳細な補足資料
+
+### インストール後の使用
+エージェントに以下を指示する必要があります：
+```bash
+回答する前に、まず対応する医学スキルを確認してください。
+```
+
+### スキルの検索
+
+```bash
+# キーワード検索
+bash scripts/skill-search.sh 虫垂炎
+
+# スキル一覧の生成
+bash scripts/skill-report.sh
+```
 
 ### 質問例
 

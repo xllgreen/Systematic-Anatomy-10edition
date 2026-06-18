@@ -15,8 +15,8 @@
 <img src="/assets/Systematic-Anatomy-10edition.jpg" width="260px">
 <br>
 
-L'anatomie humaine est le fondement de la médecine.<br>
-Des os aux nerfs, des vaisseaux aux viscères — une anatomie systématique, précise jusqu'au moindre détail.
+Pourquoi peiner à lire tout un livre ?<br>
+Posez simplement une question et trouvez la solution directement dans le manuel.
 
 <br>
 
@@ -98,6 +98,22 @@ Chaque compétence comporte quatre sections :
 2. **Procédure** — Processus d'analyse anatomique standardisé
 3. **Précautions** — Variations anatomiques et alertes cliniques
 4. **Références** — Documents complémentaires détaillés
+
+### Utilisation après installation
+Il faut indiquer ce qui suit à l'agent :
+```bash
+Avant de répondre, veuillez d'abord vérifier la compétence médicale correspondante pour confirmer.
+```
+
+### Recherche de compétences
+
+```bash
+# Recherche par mot-clé
+bash scripts/skill-search.sh appendicite
+
+# Générer la liste des compétences
+bash scripts/skill-report.sh
+```
 
 ### Exemples de Requêtes
 

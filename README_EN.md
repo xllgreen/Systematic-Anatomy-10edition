@@ -15,8 +15,8 @@
 <img src="/assets/Systematic-Anatomy-10edition.jpg" width="260px">
 <br>
 
-Human anatomy is the foundation of medicine.<br>
-From bones to nerves, from vessels to viscera — systematic anatomy, precise to the smallest detail.
+Why struggle through an entire book?<br>
+Just ask a question and get solutions directly from the textbook.
 
 <br>
 
@@ -98,6 +98,22 @@ Each skill contains four sections:
 2. **Procedure** — Standardized anatomical analysis workflow
 3. **Cautions** — Anatomical variations and clinical warnings
 4. **References** — Detailed supplementary materials
+
+### Usage After Installation
+Instruct the agent with the following:
+```bash
+Before answering, please first check the corresponding medical skill to confirm.
+```
+
+### Finding Skills
+
+```bash
+# Search by keyword
+bash scripts/skill-search.sh appendicitis
+
+# Generate skill list
+bash scripts/skill-report.sh
+```
 
 ### Example Queries
 
