@@ -14,8 +14,8 @@
 <img src="/assets/Systematic-Anatomy-10edition.jpg" width="260px">
 <br>
 
-人体解剖学是医学的基石。<br>
-从骨骼到神经，从血管到内脏 — 系统解剖，精准入微。
+何必苦苦读一本书<br>
+只需输入一个问题，自动从课本中找到解决方案
 
 <br>
 
